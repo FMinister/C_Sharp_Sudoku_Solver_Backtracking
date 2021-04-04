@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sudoku_Solver_Backtracking", "Sudoku_Solver_Backtracking\Sudoku_Solver_Backtracking.csproj", "{B123C1BB-D51D-4202-B7A1-192C5D996B1C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B123C1BB-D51D-4202-B7A1-192C5D996B1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B123C1BB-D51D-4202-B7A1-192C5D996B1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B123C1BB-D51D-4202-B7A1-192C5D996B1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B123C1BB-D51D-4202-B7A1-192C5D996B1C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6296343A-BCA4-4EB6-B211-839DC6320204}
+	EndGlobalSection
+EndGlobal
